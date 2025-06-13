@@ -1,0 +1,160 @@
+2025-06-13 22:44:02,961 - INFO - Connecting to 91.108.56.132:443/TcpFull...
+2025-06-13 22:44:03,220 - INFO - Connection to 91.108.56.132:443/TcpFull complete!
+2025-06-13 22:44:04,154 - INFO - Telegram client started successfully
+2025-06-13 22:44:04,356 - INFO - Connected to group: Krishan Kumar - Jobs & Internships Updates
+2025-06-13 22:44:04,634 - INFO - Found 25 historical messages to process
+2025-06-13 22:44:04,634 - INFO - Processing message ID: 5998
+2025-06-13 22:44:04,636 - INFO - Message ID 5998 was not relevant or processing failed
+2025-06-13 22:44:04,636 - INFO - Processing message ID: 5999
+2025-06-13 22:44:04,637 - INFO - Message ID 5999 was not relevant or processing failed
+2025-06-13 22:44:04,637 - INFO - Processing message ID: 6001
+2025-06-13 22:44:04,638 - INFO - Message ID 6001 was not relevant or processing failed
+2025-06-13 22:44:04,638 - INFO - Processing message ID: 6003
+2025-06-13 22:44:04,638 - INFO - Message ID 6003 was not relevant or processing failed
+2025-06-13 22:44:04,639 - INFO - Processing message ID: 6005
+2025-06-13 22:44:04,639 - INFO - Message ID 6005 was not relevant or processing failed
+2025-06-13 22:44:04,640 - INFO - Processing message ID: 6007
+2025-06-13 22:44:04,640 - INFO - Message ID 6007 was not relevant or processing failed
+2025-06-13 22:44:04,641 - INFO - Processing message ID: 6008
+2025-06-13 22:44:04,641 - INFO - Message ID 6008 was not relevant or processing failed
+2025-06-13 22:44:04,641 - INFO - Processing message ID: 6009
+2025-06-13 22:44:04,641 - INFO - Message ID 6009 was not relevant or processing failed
+2025-06-13 22:44:04,641 - INFO - Processing message ID: 6012
+2025-06-13 22:44:04,641 - INFO - Message ID 6012 was not relevant or processing failed
+2025-06-13 22:44:04,641 - INFO - Processing message ID: 6013
+2025-06-13 22:44:04,642 - INFO - Message ID 6013 was not relevant or processing failed
+2025-06-13 22:44:04,642 - INFO - Processing message ID: 6015
+2025-06-13 22:44:06,839 - INFO - HTTP Request: POST https://iiuandrrfpoiqxgbsndq.supabase.co/rest/v1/job_postings "HTTP/2 201 Created"
+2025-06-13 22:44:06,845 - INFO - Successfully processed and stored message ID: 6015
+2025-06-13 22:44:06,846 - INFO - Processing message ID: 6016
+2025-06-13 22:44:07,558 - INFO - HTTP Request: POST https://iiuandrrfpoiqxgbsndq.supabase.co/rest/v1/job_postings "HTTP/2 201 Created"
+2025-06-13 22:44:07,559 - INFO - Successfully processed and stored message ID: 6016
+2025-06-13 22:44:07,560 - INFO - Processing message ID: 6018
+2025-06-13 22:44:07,560 - INFO - Message ID 6018 was not relevant or processing failed
+2025-06-13 22:44:07,560 - INFO - Processing message ID: 6020
+2025-06-13 22:44:08,365 - INFO - HTTP Request: POST https://iiuandrrfpoiqxgbsndq.supabase.co/rest/v1/job_postings "HTTP/2 201 Created"
+2025-06-13 22:44:08,365 - INFO - Successfully processed and stored message ID: 6020
+2025-06-13 22:44:08,365 - INFO - Processing message ID: 6021
+2025-06-13 22:44:08,640 - INFO - HTTP Request: POST https://iiuandrrfpoiqxgbsndq.supabase.co/rest/v1/job_postings "HTTP/2 201 Created"
+2025-06-13 22:44:08,641 - INFO - Successfully processed and stored message ID: 6021
+2025-06-13 22:44:08,642 - INFO - Processing message ID: 6022
+2025-06-13 22:44:08,923 - INFO - HTTP Request: POST https://iiuandrrfpoiqxgbsndq.supabase.co/rest/v1/job_postings "HTTP/2 201 Created"
+2025-06-13 22:44:08,925 - INFO - Successfully processed and stored message ID: 6022
+2025-06-13 22:44:08,925 - INFO - Processing message ID: 6023
+2025-06-13 22:44:08,925 - INFO - Message ID 6023 was not relevant or processing failed
+2025-06-13 22:44:08,925 - INFO - Processing message ID: 6024
+2025-06-13 22:44:09,716 - INFO - HTTP Request: POST https://iiuandrrfpoiqxgbsndq.supabase.co/rest/v1/job_postings "HTTP/2 201 Created"
+2025-06-13 22:44:09,717 - INFO - Successfully processed and stored message ID: 6024
+2025-06-13 22:44:09,717 - INFO - Last processed message ID: 6024
+2025-06-13 22:44:09,718 - INFO - Monitoring for new messages...
+2025-06-13 22:44:10,884 - INFO - Disconnecting from 91.108.56.132:443/TcpFull...
+2025-06-13 22:44:10,884 - INFO - Disconnection from 91.108.56.132:443/TcpFull complete!
+2025-06-13 22:44:10,890 - INFO - Not disconnecting (already have no connection)
+2025-06-13 22:44:10,898 - INFO - Telegram client disconnected
+2025-06-13 22:47:53,006 - INFO - Connecting to 91.108.56.132:443/TcpFull...
+2025-06-13 22:47:53,154 - INFO - Connection to 91.108.56.132:443/TcpFull complete!
+2025-06-13 22:47:53,845 - INFO - Telegram client started successfully
+2025-06-13 22:47:54,006 - INFO - Connected to group: Krishan Kumar - Jobs & Internships Updates
+2025-06-13 22:47:54,221 - INFO - Found 25 historical messages to process
+2025-06-13 22:47:54,222 - INFO - Processing message ID: 5998
+2025-06-13 22:47:54,223 - INFO - Message ID 5998 was not relevant or processing failed
+2025-06-13 22:47:54,223 - INFO - Processing message ID: 5999
+2025-06-13 22:47:54,223 - INFO - Message ID 5999 was not relevant or processing failed
+2025-06-13 22:47:54,223 - INFO - Processing message ID: 6001
+2025-06-13 22:47:54,223 - INFO - Message ID 6001 was not relevant or processing failed
+2025-06-13 22:47:54,223 - INFO - Processing message ID: 6003
+2025-06-13 22:47:54,223 - INFO - Message ID 6003 was not relevant or processing failed
+2025-06-13 22:47:54,225 - INFO - Processing message ID: 6005
+2025-06-13 22:47:54,225 - INFO - Message ID 6005 was not relevant or processing failed
+2025-06-13 22:47:54,225 - INFO - Processing message ID: 6007
+2025-06-13 22:47:54,225 - INFO - Message ID 6007 was not relevant or processing failed
+2025-06-13 22:47:54,225 - INFO - Processing message ID: 6008
+2025-06-13 22:47:54,225 - INFO - Message ID 6008 was not relevant or processing failed
+2025-06-13 22:47:54,225 - INFO - Processing message ID: 6009
+2025-06-13 22:47:54,225 - INFO - Message ID 6009 was not relevant or processing failed
+2025-06-13 22:47:54,225 - INFO - Processing message ID: 6012
+2025-06-13 22:47:54,225 - INFO - Message ID 6012 was not relevant or processing failed
+2025-06-13 22:47:54,225 - INFO - Processing message ID: 6013
+2025-06-13 22:47:54,230 - INFO - Message ID 6013 was not relevant or processing failed
+2025-06-13 22:47:54,230 - INFO - Processing message ID: 6015
+2025-06-13 22:47:55,791 - INFO - HTTP Request: POST https://iiuandrrfpoiqxgbsndq.supabase.co/rest/v1/job_postings "HTTP/2 201 Created"
+2025-06-13 22:47:55,798 - INFO - Successfully processed and stored message ID: 6015
+2025-06-13 22:47:55,799 - INFO - Processing message ID: 6016
+2025-06-13 22:47:56,094 - INFO - HTTP Request: POST https://iiuandrrfpoiqxgbsndq.supabase.co/rest/v1/job_postings "HTTP/2 201 Created"
+2025-06-13 22:47:56,105 - INFO - Successfully processed and stored message ID: 6016
+2025-06-13 22:47:56,106 - INFO - Processing message ID: 6018
+2025-06-13 22:47:56,107 - INFO - Message ID 6018 was not relevant or processing failed
+2025-06-13 22:47:56,108 - INFO - Processing message ID: 6020
+2025-06-13 22:47:56,422 - INFO - HTTP Request: POST https://iiuandrrfpoiqxgbsndq.supabase.co/rest/v1/job_postings "HTTP/2 201 Created"
+2025-06-13 22:47:56,424 - INFO - Successfully processed and stored message ID: 6020
+2025-06-13 22:47:56,426 - INFO - Processing message ID: 6021
+2025-06-13 22:47:56,764 - INFO - HTTP Request: POST https://iiuandrrfpoiqxgbsndq.supabase.co/rest/v1/job_postings "HTTP/2 201 Created"
+2025-06-13 22:47:56,764 - INFO - Successfully processed and stored message ID: 6021
+2025-06-13 22:47:56,773 - INFO - Processing message ID: 6022
+2025-06-13 22:47:57,106 - INFO - HTTP Request: POST https://iiuandrrfpoiqxgbsndq.supabase.co/rest/v1/job_postings "HTTP/2 201 Created"
+2025-06-13 22:47:57,108 - INFO - Successfully processed and stored message ID: 6022
+2025-06-13 22:47:57,108 - INFO - Processing message ID: 6023
+2025-06-13 22:47:57,108 - INFO - Message ID 6023 was not relevant or processing failed
+2025-06-13 22:47:57,109 - INFO - Processing message ID: 6024
+2025-06-13 22:47:57,410 - INFO - HTTP Request: POST https://iiuandrrfpoiqxgbsndq.supabase.co/rest/v1/job_postings "HTTP/2 201 Created"
+2025-06-13 22:47:57,411 - INFO - Successfully processed and stored message ID: 6024
+2025-06-13 22:47:57,411 - INFO - Last processed message ID: 6024
+2025-06-13 22:47:57,412 - INFO - Monitoring for new messages...
+2025-06-13 22:48:31,740 - INFO - HTTP Request: GET https://iiuandrrfpoiqxgbsndq.supabase.co/rest/v1/job_postings?select=%2A&order=posted_at.desc "HTTP/2 200 OK"
+2025-06-13 22:52:51,463 - INFO - Disconnecting from 91.108.56.132:443/TcpFull...
+2025-06-13 22:52:51,467 - INFO - Disconnection from 91.108.56.132:443/TcpFull complete!
+2025-06-13 22:52:51,467 - INFO - Not disconnecting (already have no connection)
+2025-06-13 22:52:51,480 - INFO - Telegram client disconnected
+2025-06-13 22:52:53,397 - INFO - Connecting to 91.108.56.132:443/TcpFull...
+2025-06-13 22:52:53,637 - INFO - Connection to 91.108.56.132:443/TcpFull complete!
+2025-06-13 22:52:54,897 - INFO - Telegram client started successfully
+2025-06-13 22:52:55,168 - INFO - Connected to group: Krishan Kumar - Jobs & Internships Updates
+2025-06-13 22:52:55,491 - INFO - Found 25 historical messages to process
+2025-06-13 22:52:55,495 - INFO - Processing message ID: 5998
+2025-06-13 22:52:55,497 - INFO - Message ID 5998 was not relevant or processing failed
+2025-06-13 22:52:55,497 - INFO - Processing message ID: 5999
+2025-06-13 22:52:55,497 - INFO - Message ID 5999 was not relevant or processing failed
+2025-06-13 22:52:55,498 - INFO - Processing message ID: 6001
+2025-06-13 22:52:55,498 - INFO - Message ID 6001 was not relevant or processing failed
+2025-06-13 22:52:55,498 - INFO - Processing message ID: 6003
+2025-06-13 22:52:55,499 - INFO - Message ID 6003 was not relevant or processing failed
+2025-06-13 22:52:55,499 - INFO - Processing message ID: 6005
+2025-06-13 22:52:55,499 - INFO - Message ID 6005 was not relevant or processing failed
+2025-06-13 22:52:55,501 - INFO - Processing message ID: 6007
+2025-06-13 22:52:55,502 - INFO - Message ID 6007 was not relevant or processing failed
+2025-06-13 22:52:55,502 - INFO - Processing message ID: 6008
+2025-06-13 22:52:55,502 - INFO - Message ID 6008 was not relevant or processing failed
+2025-06-13 22:52:55,503 - INFO - Processing message ID: 6009
+2025-06-13 22:52:55,503 - INFO - Message ID 6009 was not relevant or processing failed
+2025-06-13 22:52:55,503 - INFO - Processing message ID: 6012
+2025-06-13 22:52:55,503 - INFO - Message ID 6012 was not relevant or processing failed
+2025-06-13 22:52:55,504 - INFO - Processing message ID: 6013
+2025-06-13 22:52:55,505 - INFO - Message ID 6013 was not relevant or processing failed
+2025-06-13 22:52:55,505 - INFO - Processing message ID: 6015
+2025-06-13 22:52:57,862 - INFO - HTTP Request: POST https://iiuandrrfpoiqxgbsndq.supabase.co/rest/v1/job_postings "HTTP/2 201 Created"
+2025-06-13 22:52:57,865 - INFO - Successfully processed and stored message ID: 6015
+2025-06-13 22:52:57,865 - INFO - Processing message ID: 6016
+2025-06-13 22:52:58,626 - INFO - HTTP Request: POST https://iiuandrrfpoiqxgbsndq.supabase.co/rest/v1/job_postings "HTTP/2 201 Created"
+2025-06-13 22:52:58,627 - INFO - Successfully processed and stored message ID: 6016
+2025-06-13 22:52:58,628 - INFO - Processing message ID: 6018
+2025-06-13 22:52:58,628 - INFO - Message ID 6018 was not relevant or processing failed
+2025-06-13 22:52:58,628 - INFO - Processing message ID: 6020
+2025-06-13 22:52:58,932 - INFO - HTTP Request: POST https://iiuandrrfpoiqxgbsndq.supabase.co/rest/v1/job_postings "HTTP/2 201 Created"
+2025-06-13 22:52:58,932 - INFO - Successfully processed and stored message ID: 6020
+2025-06-13 22:52:58,932 - INFO - Processing message ID: 6021
+2025-06-13 22:52:59,217 - INFO - HTTP Request: POST https://iiuandrrfpoiqxgbsndq.supabase.co/rest/v1/job_postings "HTTP/2 201 Created"
+2025-06-13 22:52:59,217 - INFO - Successfully processed and stored message ID: 6021
+2025-06-13 22:52:59,217 - INFO - Processing message ID: 6022
+2025-06-13 22:52:59,505 - INFO - HTTP Request: POST https://iiuandrrfpoiqxgbsndq.supabase.co/rest/v1/job_postings "HTTP/2 201 Created"
+2025-06-13 22:52:59,507 - INFO - Successfully processed and stored message ID: 6022
+2025-06-13 22:52:59,507 - INFO - Processing message ID: 6023
+2025-06-13 22:52:59,507 - INFO - Message ID 6023 was not relevant or processing failed
+2025-06-13 22:52:59,509 - INFO - Processing message ID: 6024
+2025-06-13 22:52:59,790 - INFO - HTTP Request: POST https://iiuandrrfpoiqxgbsndq.supabase.co/rest/v1/job_postings "HTTP/2 201 Created"
+2025-06-13 22:52:59,790 - INFO - Successfully processed and stored message ID: 6024
+2025-06-13 22:52:59,790 - INFO - Last processed message ID: 6024
+2025-06-13 22:52:59,790 - INFO - Monitoring for new messages...
+2025-06-13 22:56:07,060 - INFO - Disconnecting from 91.108.56.132:443/TcpFull...
+2025-06-13 22:56:07,061 - INFO - Disconnection from 91.108.56.132:443/TcpFull complete!
+2025-06-13 22:56:07,065 - INFO - Not disconnecting (already have no connection)
+2025-06-13 22:56:07,072 - INFO - Telegram client disconnected
