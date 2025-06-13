@@ -158,3 +158,119 @@
 2025-06-13 22:56:07,061 - INFO - Disconnection from 91.108.56.132:443/TcpFull complete!
 2025-06-13 22:56:07,065 - INFO - Not disconnecting (already have no connection)
 2025-06-13 22:56:07,072 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,257 - INFO - Connecting to 91.108.56.132:443/TcpFull...
+2025-06-13 23:01:38,278 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,278 - INFO - Disconnecting from 91.108.56.132:443/TcpFull...
+2025-06-13 23:01:38,278 - INFO - Disconnection from 91.108.56.132:443/TcpFull complete!
+2025-06-13 23:01:38,283 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,284 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,284 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,288 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,289 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,289 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,294 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,294 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,294 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,298 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,298 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,298 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,305 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,305 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,305 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,305 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,305 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,305 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,314 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,315 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,315 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,315 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,315 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,315 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,324 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,324 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,325 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,327 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,327 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,327 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,334 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,334 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,335 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,337 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,337 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,337 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,344 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,345 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,345 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,348 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,348 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,348 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,355 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,356 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,356 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,356 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,356 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,356 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,366 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,366 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,366 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,367 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,367 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,367 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,375 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,376 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,376 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,380 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,380 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,381 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,385 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,386 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,386 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,391 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,391 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,392 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,393 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,397 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,397 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,401 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,402 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,402 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,403 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,403 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,403 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,412 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,412 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,412 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,417 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,417 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,417 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,421 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,421 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,421 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,421 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,421 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,421 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,432 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,432 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,432 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,437 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,437 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,437 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,437 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,437 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,437 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,449 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,450 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,450 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,455 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,455 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,455 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,459 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,460 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,460 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,467 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,467 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,467 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,472 - INFO - Telegram client disconnected
+2025-06-13 23:01:38,472 - ERROR - Error in start method: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-06-13 23:01:38,472 - INFO - Not disconnecting (already have no connection)
+2025-06-13 23:01:38,473 - INFO - Connection to None complete!
