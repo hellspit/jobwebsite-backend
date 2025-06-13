@@ -1,10 +1,13 @@
+# ---------- core ----------
 telethon==1.28.5
-python-dotenv==1.0.0
-supabase==1.0.3
-python-logging-loki==0.3.1
-gunicorn==21.2.0
+python-telegram-bot==20.6
 fastapi==0.104.1
 uvicorn==0.24.0
+gunicorn==21.2.0
 pydantic==2.4.2
-httpx>=0.25.0
-python-telegram-bot==20.6
+python-dotenv==1.0.0
+python-logging-loki==0.3.1
+
+# ---------- supabase & its deps ----------
+supabase>=2.15.3          # lifts the old httpx<0.24 cap :contentReference[oaicite:0]{index=0}
+httpx==0.25.2             # satisfies both supabase (<0.28) and PTB (~=0.25) :contentReference[oaicite:1]{index=1}
